@@ -1,64 +1,51 @@
-# Leonardo Limanas
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1220,50:0f2a4d,100:1f6feb&text=Leonardo%20Limanas&fontColor=ffffff&fontSize=44&desc=Ideas%20and%20Code&descAlignY=65)
 
-<p align="left">
-  Software engineer focused on practical delivery, SDKs, developer tooling, and AI product integrations.
-</p>
+# Hi, I'm @leonardolimanas
 
-## What I build
+Software engineer focused on practical products, AI integrations, SDKs, and DevOps workflows.
 
-- SDKs and integration layers for AI platforms
-- Automation workflows for engineering operations
-- Developer-facing tooling with clear APIs and docs
-- Experiments and apps spanning web, Python and data/ML workflows
+### My Professional Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolimanas/)
+[![GitHub](https://img.shields.io/badge/GitHub-leonardolimanas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardolimanas)
+[![Organization](https://img.shields.io/badge/Organization-Leonardo--Interactive-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonardo-Interactive)
 
-## Core skills
+### My Dev Stack
+![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Languages: TypeScript, Python, JavaScript, Vue, Go, PHP
-- Platform and tooling: SDK design, API integrations, GitHub automation
-- AI ecosystem: Leonardo AI SDKs and image workflow tooling
-- Data/ML workflow context: Jupyter Notebook projects and model ecosystem repos
-- Web stack breadth: HTML, CSS, Shell, Dockerfile
+### My Setup
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 
-## Skills validated in your organization (`Leonardo-Interactive`)
-
-- `leonardo-ts-sdk` (TypeScript): SDK engineering and typed API clients
-- `leonardo-python-sdk` (Python): Python package design and API integration
-- `dependabot-jira-sync-action` (JavaScript): CI/CD and workflow automation
-- `aws-jumpstart-examples` (Jupyter Notebook): practical ML/AI experimentation flow
-- `leonardo-texturing-blender-plugin` (Python): plugin/integration development
-
-## Skills extracted from your selected projects
-
+### Featured Repositories and Skills
 - `doctor-nfse-website`: Vue, TypeScript, CSS, HTML, Shell, Dockerfile
 - `sudoku-go-game`: JavaScript, Go, CSS, HTML
 - `samuraibot`: Python, PHP
 - `deriv-bot`: Python, TypeScript, CSS, Shell, JavaScript, HTML
+- `leonardo-ts-sdk`: TypeScript SDK engineering
+- `leonardo-python-sdk`: Python SDK and integrations
 
-## Practical skill signals from those projects
-
-- Frontend architecture and product UI delivery with Vue + TypeScript
-- Mixed-language application development (Go + JavaScript + Python)
-- Automation and bot engineering in Python
-- Full-stack web implementation with styling and deployment scripts
-
-## DevOps (repository links pending access)
-
+### DevOps
 - CI/CD pipeline design and maintenance
-- Containerized development and delivery with Docker and Docker Compose
-- Automation with Shell scripts for repeatable engineering workflows
+- Containerized workflows with Docker and Docker Compose
+- Shell automation for repeatable engineering operations
 - Build and release reliability practices
 
-Projects in this area are currently in another GitHub account; repository links will be added after account access is recovered.
+Projects in this area are in another account and will be linked here after access recovery.
 
-## GitHub stats
-
+### GitHub Stats
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardolimanas&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolimanas&layout=compact&hide_border=true" />
 </p>
-
-## Contact
-
-- GitHub: https://github.com/leonardolimanas
-- Organization: https://github.com/Leonardo-Interactive
-- LinkedIn: https://www.linkedin.com/in/leonardolimanas/
