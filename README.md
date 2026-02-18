@@ -1,13 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1220,50:0f2a4d,100:1f6feb&text=Leonardo%20Limanas&fontColor=ffffff&fontSize=44&desc=Ideas%20and%20Code&descAlignY=65)
+![Header](./assets/profile-header.svg)
 
 # Hi, I'm @leonardolimanas
 
 Software engineer focused on practical products, AI integrations, SDKs, and DevOps workflows.
+DevOps/SRE Manager leading platform reliability and engineering hiring processes.
 
 ### My Professional Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolimanas/)
 [![GitHub](https://img.shields.io/badge/GitHub-leonardolimanas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardolimanas)
-[![Organization](https://img.shields.io/badge/Organization-Leonardo--Interactive-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonardo-Interactive)
 
 ### My Dev Stack
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -33,19 +33,22 @@ Software engineer focused on practical products, AI integrations, SDKs, and DevO
 - `sudoku-go-game`: JavaScript, Go, CSS, HTML
 - `samuraibot`: Python, PHP
 - `deriv-bot`: Python, TypeScript, CSS, Shell, JavaScript, HTML
-- `leonardo-ts-sdk`: TypeScript SDK engineering
-- `leonardo-python-sdk`: Python SDK and integrations
+- `feegow/devops-trial-task`: DevOps evaluation repository used in hiring process for your team (Prometheus, Alertmanager, Grafana, Loki, Tempo, k6)
 
 ### DevOps
 - CI/CD pipeline design and maintenance
 - Containerized workflows with Docker and Docker Compose
 - Shell automation for repeatable engineering operations
 - Build and release reliability practices
+- Observability stack: Prometheus, Alertmanager, Grafana dashboards, Loki logs, Tempo tracing, k6 load testing
 
-Projects in this area are in another account and will be linked here after access recovery.
+Example: `https://github.com/feegow/devops-trial-task`.
 
 ### GitHub Stats
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardolimanas&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolimanas&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardolimanas&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardolimanas&theme=github_dark" />
 </p>
+
+[Fallback stats link](https://github-readme-stats.vercel.app/api?username=leonardolimanas&show_icons=true)  
+[Fallback top languages link](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolimanas&layout=compact)
