@@ -50,5 +50,3 @@ Example: `https://github.com/feegow/devops-trial-task`.
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardolimanas&theme=github_dark" />
 </p>
 
-[Fallback stats link](https://github-readme-stats.vercel.app/api?username=leonardolimanas&show_icons=true)  
-[Fallback top languages link](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolimanas&layout=compact)
